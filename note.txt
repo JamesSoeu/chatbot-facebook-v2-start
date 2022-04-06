@@ -1,0 +1,4 @@
+facebook page token: EAANll7tivuABABcEmCy3Y6BhmtQFvU3AndrMrLjwkIlEGrZBo4WEGZAUdquOje3Q868KWR9yIrd2vPYxeiF4QHFZBk69gEmwJYRz7ON0sd4CbjkllElR5rSZCBfYN28RucZCPmZBqWpkjhHmFBDimN0n1fc2b6uxU2DZC7aiQpd6V6p7WFZCfxXl
+facebook verify token : my_voice_and_password_firstchatbotjames
+facebook app secret : eef066c6d068dd0ebf5da7f5c3628599
+server url : https://firstchatbotjames.herokuapp.com/
